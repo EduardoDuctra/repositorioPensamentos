@@ -1,0 +1,7 @@
+db.json -> Eu envio o primeiro objeto, e a API cria os demais dinamicamente com base nos parâmetros definidos.
+
+para inicializar a API: vou no arquivo index.
+New Terminal
+ls
+cd backend
+npm start
