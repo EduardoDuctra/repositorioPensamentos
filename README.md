@@ -10,11 +10,18 @@ A aplicação front-end interage com o backend usando o `axios` para fazer as re
 
 ## Tecnologias Utilizadas
 
-- **Frontend**: JavaScript (ES6+), HTML5, CSS3
-- **API**: Node.js com Express (backend simples, não incluso no repositório)
-- **Gerenciamento de Estado**: Utilização de um conjunto (Set) para garantir que não haja pensamentos duplicados
-- **Validação de Dados**: Regex para validação de conteúdo e autoria dos pensamentos
-- **Biblioteca para requisições HTTP**: `axios`
+- **Frontend**: 
+  - **JavaScript** (ES6+)
+  - **HTML5**
+  - **CSS3**
+- **API (Backend)**: 
+  - **Node.js** com **Express** (backend simples, não incluso no repositório)
+- **Gerenciamento de Estado**: 
+  - Utilização de um **Set** em JavaScript para garantir que não haja pensamentos duplicados
+- **Validação de Dados**: 
+  - **Regex** (expressões regulares) para validação de conteúdo e autoria dos pensamentos
+- **Biblioteca para requisições HTTP**: 
+  - **axios**
 
 ## Funcionalidades
 
